@@ -1,0 +1,61 @@
+h6 {
+    color: yellow;
+    margin: 0;
+    text-align: center;
+    padding: 0;
+}
+.links {
+    color: black;
+    border: 1px solid black;
+    width: 310px;
+    font-size: 18px;
+}
+
+img {
+    width: 580px;
+    display: block;
+    margin: auto;
+    border: 5px solid black;
+}
+
+html {
+    font-family: "Balsamiq Sans";
+    background-color: blue;
+} 
+
+#hello {
+    font-size: 25px;
+    letter-spacing: 1px;
+    margin: 40px 0;
+}
+
+body{
+    width: 600px;
+    background-color: yellow;
+    border: 7px solid black;
+    padding: 0 20px 20px 20px;
+    margin: 0 auto;
+}
+
+h1{
+    text-align: center;
+    font-size: 65px;
+    margin: 0;
+    padding: 40px 0;
+    text-shadow: 5px 5px 1.5px rgb(255, 153, 0);
+}
+
+button {
+    border: 2px solid black;
+    background-color: rgb(255, 153, 0);
+}
+
+ol, p {
+    font-size: 20px;
+    line-height: 22.5px;
+}
+
+ul {
+    font-size: 14px;
+}
+
